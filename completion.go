@@ -25,6 +25,8 @@ var (
 // GPT3 Models are designed for text-based tasks. For code-specific
 // tasks, please refer to the Codex series of models.
 const (
+	O3Mini                = "o3-mini"
+	O3Mini20250131        = "o3-mini-2025-01-31"
 	O1Mini                = "o1-mini"
 	O1Mini20240912        = "o1-mini-2024-09-12"
 	O1Preview             = "o1-preview"
